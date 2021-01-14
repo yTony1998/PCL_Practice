@@ -1,3 +1,0 @@
-/home/yingyue/Desktop/PCL_Practice/load_pcd/build/CMakeFiles/edit_cache.dir
-/home/yingyue/Desktop/PCL_Practice/load_pcd/build/CMakeFiles/rebuild_cache.dir
-/home/yingyue/Desktop/PCL_Practice/load_pcd/build/CMakeFiles/LOAD_PCD.dir
